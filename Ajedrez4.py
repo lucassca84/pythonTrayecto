@@ -105,7 +105,7 @@ print('---------------------------------------------------')
 cargaDeTablero=[]
 
 for i in range (64):
-    cargaDeTablero.insert(i,'No')
+    cargaDeTablero.insert(i,'xx')
 #print('Tablero vacio: ')
 #print(cargaDeTablero)
 
